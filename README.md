@@ -26,7 +26,7 @@ make build
 make deploy
 ```
 
-Once Mater is deployed, access master http://localhost:8080. User name and password mentioned below
+Once Master is deployed, access master http://<host>:8080. User name and password mentioned below
 Login to Mater and click install necessary plugins and click save jenkins master url and click start using jenkins.
 
 ### Deploy Jenkins Job
