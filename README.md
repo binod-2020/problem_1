@@ -35,11 +35,17 @@ make job
 
 Login to Master with username and password Mentioned in the Password section and click build now in hello-world job
 
-## User Name and Password for demo
+### User Name and Password for demo
 
 ```
 User: demo
 Pass: demo123
+```
+
+## Clean demo containers
+
+```
+make clean
 ```
 
 ## Versioning
