@@ -4,11 +4,15 @@ CI/CD Demo project with Jenkins
 
 ## Getting Started
 
-Clone this repo 
+Clone this repo
+
+```
+git clone https://github.com/binod-2020/problem_1
+``` 
 
 ### Prerequisites
 
-Need to have docker and make installed on your system
+Need to have docker,make and git installed on your system
 
 ### Installing
 
